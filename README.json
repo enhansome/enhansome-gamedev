@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Audio"
-    },
-    {
-      "description": "These are full-blown game engines.",
-      "items": [],
-      "title": "Engines"
-    },
-    {
-      "description": "These are meant to serve as examples for your own work, or foundations to built upon.\nI have endeavoured to provide both code and asset licenses here - if no asset license is listed, assume it to be non-free or questionably-free. These entries may be removed upon clarification.",
-      "items": [],
-      "title": "Games"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Graphics"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Graphics Tools"
-    },
-    {
-      "description": "These are all collections of information to help you learn about things that might be necessary for developing games.\nWe aim for complete and current resources here whenever possible.",
-      "items": [],
-      "title": "Learning Resources"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Graphics"
-    },
-    {
       "description": "These are programming libraries or low-level code-based tools which are designed to support game programming, but do not provide as much structure or support as an engine would.",
       "items": [
         {
@@ -45,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94326762,
             "language": "C++",
             "last_commit": "2023-03-09T10:54:39Z",
             "owner": "phisko",
@@ -59,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 362760667,
             "language": "C++",
             "last_commit": "2023-03-08T11:19:45Z",
             "owner": "phisko",
@@ -73,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 362763626,
             "language": "C++",
             "last_commit": "2023-03-08T11:05:51Z",
             "owner": "phisko",
@@ -85,8 +53,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T15:03:37.278Z",
+    "last_updated": "2026-08-19T12:30:09.777Z",
     "original_repository": "Calinou/awesome-gamedev",
+    "original_repository_id": 41116605,
     "original_repository_sha": "d051efc5c1f628d127a1a16fd7ce7280aac8ad85",
     "enhanced_repository": "enhansome/enhansome-gamedev",
     "enhanced_repository_description": null,
