@@ -209,7 +209,7 @@ These are full-blown game engines.
 * [Irrlicht][43] - Implemented in C++. Has a [range of bindings][44]. [zlib][45].
 * [JMonkey][140] - Implemented in Java. [3-clause BSD][29].
 * [JNGL][430] - Implemented in C++. Designed for 2D games. [zlib][45].
-* [kengine](https://github.com/phisko/kengine) ⭐ 617 | 🐛 1 | 🌐 C++ | 📅 2023-03-10 - The Koala engine is a type-safe and self-documenting implementation of an Entity-Component-System (ECS), with a focus on runtime extensibility and compile-time type safety and clarity. [MIT][403]
+* [kengine](https://github.com/phisko/kengine) ⭐ 616 | 🐛 1 | 🌐 C++ | 📅 2023-03-10 - The Koala engine is a type-safe and self-documenting implementation of an Entity-Component-System (ECS), with a focus on runtime extensibility and compile-time type safety and clarity. [MIT][403]
 * [KivEnt][307] - Implemented in Python. [Expat][11].
 * [LambdaHack][84] - Implemented in Haskell, Designed for roguelikes. [3-clause BSD][29].
 * [litiengine][417] - Implemented in Java, Designed for 2D games. [MIT][403]
@@ -1729,4 +1729,4 @@ This is a catch-all category for things that don't fit anywhere else.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
