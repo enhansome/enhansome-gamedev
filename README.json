@@ -53,9 +53,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:02:26.171Z",
-    "original_repository": "Calinou/awesome-gamedev",
-    "original_repository_id": 41116605,
+    "last_updated": "2026-08-27T11:41:05.578Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 41116605,
+      "language": null,
+      "last_commit": "2026-08-25T18:12:52Z",
+      "owner": "Calinou",
+      "repo": "awesome-gamedev",
+      "stars": 3114
+    },
     "original_repository_sha": "9918eea4f16a122e86df4e1176b1346ea8a22aac",
     "enhanced_repository": "enhansome/enhansome-gamedev",
     "enhanced_repository_description": null,
