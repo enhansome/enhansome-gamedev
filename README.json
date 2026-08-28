@@ -16,7 +16,8 @@
             "owner": "phisko",
             "repo": "putils",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T23:38:58.314Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "phisko",
             "repo": "reflection",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T23:38:58.314Z"
         },
         {
           "node_type": "item",
@@ -46,14 +48,15 @@
             "owner": "phisko",
             "repo": "meta",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T23:38:58.314Z"
         }
       ],
       "title": "Programming Frameworks and Libraries"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:54:29.672Z",
+    "last_updated": "2026-08-28T23:38:58.314Z",
     "original_repository_info": {
       "archived": false,
       "id": 41116605,
@@ -61,7 +64,7 @@
       "last_commit": "2026-08-25T18:12:52Z",
       "owner": "Calinou",
       "repo": "awesome-gamedev",
-      "stars": 3114
+      "stars": 3116
     },
     "original_repository_sha": "9918eea4f16a122e86df4e1176b1346ea8a22aac",
     "enhanced_repository": "enhansome/enhansome-gamedev",
