@@ -71,7 +71,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:25:32.946Z",
+    "last_updated": "2026-10-06T19:46:10.541Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of free software and free culture resources for making amazing games. (mirror)",
@@ -83,7 +83,7 @@
       "open_issues": 27,
       "owner": "Calinou",
       "repo": "awesome-gamedev",
-      "stars": 3166,
+      "stars": 3165,
       "topics": [
         "awesome",
         "awesome-list",
